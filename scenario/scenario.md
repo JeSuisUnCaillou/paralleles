@@ -107,6 +107,7 @@ Il se réintéresse au bouton rouge, hésite pendant très longtemps et parle m�
  -> Dans l'univers B, la discussion va s'envenimer à propos de la responsabilité du meurtre. Certains disent que comme ils peuvent apparemment se multiplier, un mort n'a que peu d'importance. D'autres disent qu'ils n'aimeraient pas finir dans l'état de Rouge 1B, et qu'on ne fait pas aux autres ce qu'on aimerait pas qu'on nous fasse. D'autres rétorquent qu'ils ne sont pas vraiment des "autres" pour eux-mêmes : peut on faire subir à d'autres soi-memes ce que l'on aimerait pas subir ? Ca les amène sur la question de QUI est vraiment MOI parmis NOUS ?
 
 > Univers A : 1 cadavre et demi au bout d'un certain temps 
+
 > Univers B : 6 clones : Rouge1A, Rouge2A, Rouge2B, Bleu1A, Bleu1B, Bleu2B
 
 # Part 7 : La question du moi original
