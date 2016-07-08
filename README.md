@@ -1,5 +1,5 @@
 # Paralleles
-Versionning des assets projet de BD en ligne *Parallèle(s)*
+Versionning des assets diu projet de BD en ligne *Parallèle(s)*
 
 ## Scénario
 * Le scénar (pour l'instant un fichier sans markdown + un pdf exporté depuis le fichier original de slack. Reste à faire l'ajout des symboles de markdown au document scenario.md)

@@ -2,14 +2,14 @@ TODO : remettre les symboles de fromatting. voir export Pdf.
 
 
 
-Part 1 : Tout seul
+# Part 1 : Tout seul
 Un mec se réveille dans une pièce aux murs capitonés, vide à l'exception d'un petit présentoir avec un gros bouton rouge. Il regarde autour de lui, ne voit aucune sortie, et rien d'autre qu'un gros bouton rouge sans aucune indication monté sur un poteau au milieu de la pièce. 
 
 Il se pose des questions, s'excite un peu, essaye de pousser les murs, de tambouriner, de crier à l'aide. Rien.
 
 Il se réintéresse au bouton rouge, hésite pendant très longtemps et parle même tout haut des 2 éventualités qui s'offrent à lui :
- Appuyer sur le bouton rouge pour voir ce qu'il fait
- Ne pas appuyer et ... ben et juste attendre, quoi.
+* Appuyer sur le bouton rouge pour voir ce qu'il fait
+* Ne pas appuyer et ... ben et juste attendre, quoi.
  Il finira par faire un choix entre 1 et 2, et le moment de ce choix sépare le fil de la BD en deux univers parallèles. Un univers rouge où il décide d'appuier sur le bouton, et un univers bleu où il décide d'attendre et de chercher une autre solution. Appelons donc ces 2 versions du même personnage : Rouge et Bleu.
 
  Note : Ce bouton pourra s'allumer, explications dans la partie 9
@@ -17,9 +17,9 @@ Il se réintéresse au bouton rouge, hésite pendant très longtemps et parle m�
  Au moment où Rouge appuie sur le bouton, un glow apparait autour de lui, et un autre glow de la même forme (mais vide) apparait dans l'univers bleu. On opère un genre de freeze de l'action pendant la téléportation, qui s'effectue sur une durée de 2 cases pendant laquelle les personnages sont figés.
 
  Rouge se retrouve donc téléporté chez Bleu. Heureusement que bleu s'était éloigné du bouton d'ailleurs.
- Rouge et bleu dans l'univers bleu
+> Rouge et bleu dans l'univers bleu
 
- Part 2 : A deux
+# Part 2 : A deux
  Les deux personnage se voient, et bleu tombe dans les pommes. Rouge est un peu gaga, mais reste conscient. Rouge réveille Bleu, Bleu reflippe. Ils se dévisagent un moment, s'exclament de manière plus ou moins synchro, et finissent par admettre qu'ils sont la même personne.
 
  En remontant leurs passés proches respectifs, ils se rendent compte que leurs existences sont exactement similaires jusqu'à la décision d'appuyer ou non sur le bouton. Ils se rendent aussi compte qu'ils n'ont aucun souvenir à propos de la manière dont ils sont atteri dans cette pièce.
@@ -27,8 +27,8 @@ Il se réintéresse au bouton rouge, hésite pendant très longtemps et parle m�
  Ils passent un petit moment à discuter entre eux, sans particulièrement faire avancer le schmilblik.
 
  S'en suit un débat pour savoir si ils doivent rappuyer ou non sur le bouton. Rouge est pour, Bleu est contre. Bleu va finalement changer d'avis et appuie sur le bouton après avoir essayé de le décortiquer sous tous les angles sans succès, et se retrouve donc dans l'univers rouge.
- Rouge dans l'univers bleu
- Bleu dans l'univers rouge
+> Rouge dans l'univers bleu
+> Bleu dans l'univers rouge
 
  Part 3 : Découverte des règles du bouton
  Du point de vue de Rouge, Bleu a simplement disparu au moment où il appuyait sur le bouton. Du point de vue de Bleu (qui tournait le dos à Rouge), rien n'a changé jusqu'à ce qu'il se retourne et remarque que rouge a disparu. Les 2 réfléchissent dans leurs univers respectifs, et se demandent si ils ont pas halluciné un peu quand même.
