@@ -1,0 +1,39 @@
+# Part 1 : Tout seul
+
+> Rouge et bleu dans l'univers bleu
+
+# Part 2 : A deux
+
+> Rouge dans l'univers bleu
+> Bleu dans l'univers rouge
+
+# Part 3 : Découverte des règles du bouton
+
+> Rouge et Bleu, avec un peu de sang sur le mur et le sol, dans l'univers rouge
+> Un bout de doigt et quelques gouttes de sang dans l'univers bleu
+
+# Part 4 : Amusement à deux
+
+> Rouge et Bleu dans l'univers rouge
+> Un bout de doigt et des excréments dans l'univers bleu
+
+# Part 5 : Duplication 2->4
+
+> Univers rouge : Rouge1, Rouge2, Bleu1 et Bleu2
+> Univers bleu : vide
+
+# Part 6 : Duplication 4->8
+
+> Univers A : 1 cadavre et demi au bout d'un certain temps 
+> Univers B : 6 clones : Rouge1A, Rouge2A, Rouge2B, Bleu1A, Bleu1B, Bleu2B
+
+# Part 7 : La question du moi original
+
+
+# Part 8 : Les 7 restants
+
+
+# Part 9 : La sortie et l'explication
+
+
+# Part 10 : Retour chez soi tout dizzy
