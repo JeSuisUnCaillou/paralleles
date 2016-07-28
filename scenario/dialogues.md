@@ -1,5 +1,23 @@
 # Part 1 : Tout seul
 
+* Rgmpf
+* ???
+* ok, alors mur, plafond, mur...
+* un... bouton rouge ?
+* Eho, y'a quelqu'un ?
+* Putain mais qu'est-ce que je fous ici ? Je...
+* *tambourine*
+* Je ne me souviens de rien.. *argh* ...migraine !
+* Arh bon ok, ok, ok.... ok.
+* *marmonne*
+* Mais non, je ne paniquais pas là. Mais si je paniquais. Remarque c'est bon, je ne panique plus là. *expire un bon coup*
+* Ok, je suis dans une pièce _capitonnée avec soin_, et y'a un gros PUTAIN de bouton rouge au milieu qui FRANCHEMENT ne m'inspire pas DU TOUT confiance. 
+* *marmonne* 
+* Je sais... Je sais qu'il y a quelqu'un ! On enferme pas un type dans une pièce capitonée avec un gros bouton rouge sans raison !
+* *regarde autour de lui*
+* Allez, je sais que vous m'entendez là, HO !
+
+
 > Rouge et bleu dans l'univers bleu
 
 # Part 2 : A deux
