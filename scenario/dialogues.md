@@ -7,15 +7,38 @@
 * Eho, y'a quelqu'un ?
 * Putain mais qu'est-ce que je fous ici ? Je...
 * *tambourine*
-* Je ne me souviens de rien.. *argh* ...migraine !
+* Je ne me souviens pas.. j'arrivais au boulot... et puis plus rien !
 * Arh bon ok, ok, ok.... ok.
 * *marmonne*
 * Mais non, je ne paniquais pas là. Mais si je paniquais. Remarque c'est bon, je ne panique plus maintenant. *expire un bon coup*
 * Ok, je suis dans une pièce _capitonnée avec soin_, et y'a un gros PUTAIN de bouton rouge au milieu qui FRANCHEMENT ne m'inspire pas DU TOUT confiance. 
 * *marmonne* 
 * Je sais... Je sais qu'il y a quelqu'un ! On enferme pas un type dans une pièce capitonée avec un gros bouton rouge sans raison !
-* *regarde autour de lui*
+* *tambourine sur un mur*
 * Allez, je sais que vous m'entendez là, HO !
+* ...
+* *se retourne vers le bouton rouge, anxieux*
+* Je vais quand même pas aapuyer là dessus, c'est un piège c'est SÛR ! Qui serait assez con...
+* En même temps, si je ne fait qu'attendre et que rien en vient, je vais potentiellement me retrouver mort de soif.
+* *se raproche devant le bouton*
+* *se mord la lèvre, regarde autour de lui*
+* lève le doigt au dessus du bouton, hésite -> dédoublement d'univers
+
+univers 1 : il appuie
+univers 2 : il se retient d'appuyer et s'écarte du bouton
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - EN COURS -
 
