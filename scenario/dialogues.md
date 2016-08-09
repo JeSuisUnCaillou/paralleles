@@ -2,23 +2,19 @@
 
 * Rgmpf
 * ???
-* ok, alors mur, plafond, mur...
+* Euh... ok ? Alors mur, plafond, mur...
 * un... bouton rouge ?
-* Eho, y'a quelqu'un ?
 * Putain mais qu'est-ce que je fous ici ? Je...
+* Eho, y'a quelqu'un ?
 * *tambourine*
 * Je ne me souviens pas.. j'arrivais au boulot... et puis plus rien !
-* Arh bon ok, ok, ok.... ok.
-* *marmonne*
-* Mais non, je ne paniquais pas là. Mais si je paniquais. Remarque c'est bon, je ne panique plus maintenant. *expire un bon coup*
-* Ok, je suis dans une pièce _capitonnée avec soin_, et y'a un gros PUTAIN de bouton rouge au milieu qui FRANCHEMENT ne m'inspire pas DU TOUT confiance. 
-* *marmonne* 
-* Je sais... Je sais qu'il y a quelqu'un ! On enferme pas un type dans une pièce capitonée avec un gros bouton rouge sans raison !
-* *tambourine sur un mur*
-* Allez, je sais que vous m'entendez là, HO !
+*expire un bon coup*
+* Et là, je me retrouve dans une pièce _capitonnée avec soin_, et y'a un gros PUTAIN de bouton rouge au milieu qui FRANCHEMENT ne m'inspire pas DU TOUT confiance. 
+* Eh mais attend, je sais un truc... Je sais qu'il y a quelqu'un ! On enferme pas un type dans une pièce capitonée avec un gros bouton rouge sans raison !
+* Répondez moi !
 * ...
 * *se retourne vers le bouton rouge, anxieux*
-* Je vais quand même pas aapuyer là dessus, c'est un piège c'est SÛR ! Qui serait assez con...
+* Je vais quand même pas apuyer là dessus, c'est un piège c'est SÛR ! Qui serait assez con...
 * En même temps, si je ne fait qu'attendre et que rien en vient, je vais potentiellement me retrouver mort de soif.
 * *se raproche devant le bouton*
 * *se mord la lèvre, regarde autour de lui*
