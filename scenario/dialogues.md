@@ -6,10 +6,11 @@
 * un... bouton rouge ?
 * Putain mais qu'est-ce que je fous ici ? Je...
 * Eho, y'a quelqu'un ?
-* *tambourine*
-* Je ne me souviens pas.. j'arrivais au boulot... et puis plus rien !
-*expire un bon coup*
+* *tambourine le mur de la caméra*
+* *pousse le mur de droite*
+* C'est dingue ça, je ne me souviens même pas comment je suis arrivé ici.. j'arrivais au boulot tranquille, normal... et puis plus rien !
 * Et là, je me retrouve dans une pièce _capitonnée avec soin_, et y'a un gros PUTAIN de bouton rouge au milieu qui FRANCHEMENT ne m'inspire pas DU TOUT confiance. 
+* *réfléchit*
 * Eh mais attend, je sais un truc... Je sais qu'il y a quelqu'un ! On enferme pas un type dans une pièce capitonée avec un gros bouton rouge sans raison !
 * Répondez moi !
 * ...
@@ -22,6 +23,10 @@
 
 univers 1 : il appuie
 univers 2 : il se retient d'appuyer et s'écarte du bouton
+
+> Rouge et bleu dans l'univers bleu
+
+# Part 2 : A deux
 
 
 
@@ -37,11 +42,6 @@ univers 2 : il se retient d'appuyer et s'écarte du bouton
 
 
 - EN COURS -
-
-
-> Rouge et bleu dans l'univers bleu
-
-# Part 2 : A deux
 
 > Rouge dans l'univers bleu
 > Bleu dans l'univers rouge
