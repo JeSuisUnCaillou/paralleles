@@ -144,7 +144,7 @@ Re-Note : le principe de décision binaire forte, il est configuré par la scien
 Re-Re-Note : Peut-être qu'on peut remplacer "décision binaire forte" avec "hésitation à propos d'appuyer ou non sur le bouton" pour simplifier les choses.
 
 # Part 10 : Retour chez soi tout dizzy
-Le personnage va rentrer chez lui, encore tout dizzy de la drogue du scientifique.
+Le personnage va rentrer chez lui, encore tout dizzy de la drogue de la scientifique.
 Des cases rondes avec la main du personnage refermant la porte de sortie du labo s'incrustent dans la mono-case à laquelle on était habitué jusque là.
 
 Gros plan sur les lunettes du personnage, dézoom plan par plan jusqu'à voir sa tête etes épaules. Une longue scène muette, le personnage de face les yeux dans le vide, les décors de son voyage pour rentrer (rue1, rue2, métro sur le quai, dans le métro, rue3, rue4) se succédant derrière lui.
